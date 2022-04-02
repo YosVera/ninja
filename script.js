@@ -1,5 +1,4 @@
-//YosV
-
+//YosVera
 class Ninja { //creo clase
     constructor(nombre) { //llamo al parametro dentro del constructor
         this.nombre = nombre;
